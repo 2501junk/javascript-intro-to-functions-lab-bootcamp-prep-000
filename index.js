@@ -3,5 +3,8 @@ function shout(string){
   return string
   'Hello!'.toUpperCase()
 
-  
+  return.toLowerCase()
+  return string
+  'Hello!'.toLowerCase()
+
 }
