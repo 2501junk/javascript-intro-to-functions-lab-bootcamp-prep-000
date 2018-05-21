@@ -1,7 +1,7 @@
 function shout(string){
-  return shout.toUpperCase()
+  return.toUpperCase()
   return string
-  //'Hello!'.toUpperCase()
+  'Hello!'.toUpperCase()
 
-
+  
 }
